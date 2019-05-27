@@ -21,4 +21,6 @@ HUGO静态站点生成器交流。但我们聊得不止是技术。The world’s
 	<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=8fbda591122f428517788e0db678ca4cb20b5debfd34e024330c7c4eb4aa6943"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="GO HUGO" title="GO HUGO"></a>
     </br>
 	</br>
-	<img src="https://ws1.sinaimg.cn/large/006ikbOIly1g1jjw54mdmj308e08e0sn.jpg" width="200"></div>
+	<img src="https://ws1.sinaimg.cn/large/006ikbOIly1g1jjw54mdmj308e08e0sn.jpg" width="200">
+</div>
+
