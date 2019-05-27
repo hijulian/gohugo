@@ -1,0 +1,35 @@
+# Site settings
+baseURL = "https://gohugo.xyz/"
+languageCode = "en-us"
+title = "GO HUGO"
+theme = "hugo-simpledoc-theme"
+
+[blackfriday]
+  angledQuotes = true
+  fractions = false
+  plainIDAnchors = true
+  smartlists = true
+  extensions = ["hardLineBreak"]
+
+# Top menu
+[[menu.top]]
+    name = "Hugo - A Fast and Flexible Website Generator"
+    weight = 10
+    url = "http://gohugo.io/"
+
+# Site parameters
+[params]
+
+    # Meta
+    description = "HUGO 静态站点生成器交流。但我们聊得不止是技术。The world’s fastest framework for building websites."
+    author = "Julian"
+    keywords = "hugo, documentation, hugo theme, hugo simple documentation theme"
+    
+    # Header
+    # If not set, site title and meta description will be shown.
+    # You may use markdown here
+    headerTitle = "玩 GO HUGO"
+    headerDescription = "HUGO 静态站点生成器交流。但我们聊得不止是技术。The world’s fastest framework for building websites."
+    
+    # Back-to-top button name
+    bttButton = "回到顶部👆"
