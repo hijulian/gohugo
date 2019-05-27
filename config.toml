@@ -28,7 +28,7 @@ theme = "hugo-simpledoc-theme"
     # Header
     # If not set, site title and meta description will be shown.
     # You may use markdown here
-    headerTitle = "玩 GO HUGO"
+    headerTitle = "GO HUGO"
     headerDescription = "HUGO 静态站点生成器交流。但我们聊得不止是技术。The world’s fastest framework for building websites."
     
     # Back-to-top button name
